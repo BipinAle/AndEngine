@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/andengineLibrary/AndEngine-GLES2-AnchorCenter/AndEngine-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/andengineLibrary/AndEngine-GLES2-AnchorCenter/AndEngine-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andenginebox2dlibrary/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/andenginebox2dlibrary/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndEngineProject.iml" filepath="$PROJECT_DIR$/AndEngineProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/andengineLibrary/andengineLibrary.iml" filepath="$PROJECT_DIR$/andengineLibrary/andengineLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andenginebox2dlibrary/andenginebox2dlibrary.iml" filepath="$PROJECT_DIR$/andenginebox2dlibrary/andenginebox2dlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

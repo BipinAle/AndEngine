@@ -1,2 +1,3 @@
 include ':app'
 include ':andengineLibrary:AndEngine-GLES2-AnchorCenter'
+include ':andenginebox2dlibrary:AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter'

@@ -5,12 +5,14 @@ import android.os.Bundle;
 
 import org.andengine.engine.options.EngineOptions;
 import org.andengine.entity.scene.Scene;
+import org.andengine.extension.physics.box2d.PhysicsConnector;
 import org.andengine.ui.IGameInterface;
 import org.andengine.ui.activity.BaseGameActivity;
 
 import java.io.IOException;
 
 public class GameActivity extends BaseGameActivity {
+    PhysicsConnector physicsConnector;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,7 +29,6 @@ public class GameActivity extends BaseGameActivity {
     public void onCreateResources(OnCreateResourcesCallback pOnCreateResourcesCallback) throws IOException {
 
     }
-
     @Override
     public void onCreateScene(OnCreateSceneCallback pOnCreateSceneCallback) throws IOException {
 
